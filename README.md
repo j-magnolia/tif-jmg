@@ -10,10 +10,12 @@ TIF (tif.nls) is a library for the simulation software NetLogo [[1](http://ccl.n
 ## Author
 
 Pierre-Olivier Chasset
+and
+Jonathan Magnolia Gilligan
 
 ## Version
 
-1.0.0
+2.0.0
 
 ## License
 
