@@ -1,7 +1,7 @@
 TIF (Testing is fun): Unit tests for the simulation software NetLogo
 ====================================================================
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3726981.svg)](https://doi.org/10.5281/zenodo.3726981)
+[![DOI](https://zenodo.org/badge/1281684224.svg)](https://doi.org/10.5281/zenodo.20942327)
 
 ## Description
 
